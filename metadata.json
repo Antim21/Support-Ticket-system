@@ -1,0 +1,5 @@
+{
+  "name": "Auto-Classify Support System",
+  "description": "A comprehensive support ticket management system featuring LLM-powered automatic classification and priority suggestion, real-time statistics, and a responsive dashboard.",
+  "requestFramePermissions": []
+}
